@@ -17,6 +17,8 @@ After that course, a friend appointed me for a job at a startup company and I la
   Actually anything that could help me become a better programmer. Any tips, insights or pointers are of great help and I am really grateful for any given.
 
 ## My knowledge
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFrSaito&layout=compact)
+  
   Seeing as I learned some of it on my last job, I kept using C# for most of my development and the few projects I store here shows it. And as I start to delve into the frontend development world, some Javascript/Typescript and HTML/CSS are showing off here, mostly from a guided project I did from nextjs.org, to begin to grasp some of it development process. I also know a little of python from the Data Science Course and some concepts I could keep from my college days almost 25 years back now. Restarting on all this is tough for many reasons for me, but it is so fascinating and feels so great when you can actually accomplish something meaningful with it that I just can't let it go.
   
 ## How to reach me:
