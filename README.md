@@ -1,9 +1,9 @@
 # Olá, meu nome é Guilherme de Freitas Saito
 
-Há mais de 20 anos cursei Bacharelado em Ciência da Computação na Universidade Federal de Uberlândia mas, infelizmente não consegui concluir o curso.
-Desde então, trabalhei em diversas áreas de atuação como segurança patrimonial, logística, entretenimento e vendas e, só voltei a ter contato com tecnologia,
-programação e desenvolvimento de software em meados de 2020, quando realizei um curso de Data Science.</br> Após o curso, consegui ocupar uma posição de desenvolvedor 
+Trabalhei em diversas áreas de atuação como segurança patrimonial, logística, entretenimento e vendas e, só  em meados de 2020, 
+quando realizei um curso de Data Science.</br> Após o curso, consegui ocupar uma posição de desenvolvedor 
 de software backend em uma empresa de precificação com inteligência artificial, o que durou pouco mais de um ano.
+Fui aprovado recentemente pela UNIVESP para cursar Bacharelado em Tecnologia da Informação, então em poucos anos espero estar formado e ainda mais preparado para atuar na área.
 De lá pra cá, tenho procurado me aprimorar em desenvolvimento de software participando de cursos de plataformas diversas, colaborando esporadicamente com projetos de pessoas 
 que conheci neste útlimo emprego e também trabalhando em projetos pessoais, com o intuito de solidificar conhecimentos adquiridos no cargo e nos cursos realizados, além da 
 sensação extremamente gratificante de ajudar as pessoas.
@@ -94,7 +94,7 @@ Visto que atuei em áreas, em sua maioria, não correlatas, fui capaz de adquiri
     </tr>
     <tr>
       <td>
-        Comprometimento
+        Adaptabilidade
       </td>
       <td>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
